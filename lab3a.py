@@ -4,7 +4,7 @@
 # Author ID: 'spaudel11'
 
 def return_text_value():
-    return "Hello, World!"
+    return "Good Morning Terry"
    
 
 # return_number_value() function
@@ -27,6 +27,4 @@ if __name__ == '__main__':
     print(text)
     number = return_number_value()
     print(str(number))
-
-
 
